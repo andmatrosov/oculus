@@ -5,4 +5,4 @@
 
 ![Oculus Preview](https://github.com/andmatrosov/oculus/blob/master/preview.png)
 
-Открыть на <a href="https://andmatrosov.github.io/oculus/" target="_blank">GitHub Pages</a>
+Открыть на <a href="https://andmatrosov.github.io/oculus/" target="_blank" rel="noopener">GitHub Pages</a>
